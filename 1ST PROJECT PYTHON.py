@@ -4,7 +4,7 @@ print("~~~~~~~~~~~~MINI CALCULATOR~~~~~~~~~~~~~")
 num1=float(input("enter the first number here: "))
 num2=float(input("enter the second number here: "))
 
-print("press1 1 for addition \npress 2 for substraction \npress 3 for multiplication \npress 4 for division")
+print("press1 for addition \npress 2 for substraction \npress 3 for multiplication \npress 4 for division")
 
 choice=int(input("enter your choice from 1-4: "))
 
